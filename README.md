@@ -14,5 +14,8 @@ This is my Camera Effects Project.
 
 ***
 
-Camera Effects
+Storyscape
 
+This is my StoryScape Project
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/jacig/water-copy-copy-copy-copy" ></script>
